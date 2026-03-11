@@ -10,7 +10,7 @@ import java.time.Instant;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-public class TodoItemTest {
+class TodoItemTest {
 
     @BeforeEach
     void setUp() {
